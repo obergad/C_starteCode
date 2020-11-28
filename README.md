@@ -1,2 +1,4 @@
-# CS344_Assignmnet_5
-Assignment 5 for Oregon State University's CS344
+# Starter Code for a project to be built in C 
+Created by Adam Oberg, 
+
+Make file interpreted from Justin Goins cs344 class 
